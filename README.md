@@ -32,11 +32,5 @@ Every implementation aims to blend clarity, simplicity, and strong practical con
 
 ---
 
-### 🌸 Notes
-This project is created for educational use within the course  
-**Fundamentals of Intelligent Systems – 4041**, academic year 1403‑1404.  
-
----
-
 👨‍💻 **Author:**  
 Parsa Alavinikoo
