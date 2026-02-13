@@ -19,7 +19,7 @@ This repository contains implementations and experiments related to the course *
 - Jupyter Notebook
 
 ## 👤 Author
-**Parsa Alvandi**
+**Parsa Alvinikoo**
 
 ## 📌 Notes
 This repository is intended for educational purposes.
