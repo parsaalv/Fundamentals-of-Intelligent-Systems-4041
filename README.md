@@ -1,6 +1,6 @@
-# 🌱 Fundamentals of Intelligent Systems – 4041
+# Fundamentals of Intelligent Systems – 4041
 
-Welcome to the official repository for the **Fundamentals of Intelligent Systems** course 🌿  
+Welcome to the official repository for the **Fundamentals of Intelligent Systems** course  
 This space contains the **mini-project** and **final project** implementations designed to explore modern concepts in **machine learning** and **intelligent systems**.
 
 ---
