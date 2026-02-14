@@ -111,7 +111,7 @@ Each mini project includes both **theoretical analysis** and **hands-on Python i
 
 ### 📂 Final Evaluation
 The **Final** folder corresponds to the final assessment of the course and includes:
-- **4 theoretical questions**
+- **4 questions**
 - **Final implementation project** (included in the last question)
 
 Similar to the mini projects, this section contains:
