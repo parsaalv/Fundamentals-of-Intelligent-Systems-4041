@@ -1,4 +1,3 @@
-# Fundamentals-of-Intelligent-Systems
 # Fundamentals of Intelligent Systems (FIS)
 
 ## 📌 Description
