@@ -24,7 +24,7 @@ Below is a list of mini projects included in this repository:
             * **🕹️ Ball and Beam System:** Modeling a dynamic system using RBF Neural Networks, covering both Static RBF (Linear Least Squares) and Adaptive M-RAN architectures with pruning strategies.
     * **🔗 Access Instructions:** In the folder of this mini-project, you will find the report and all associated files. However, if you encounter any issues, you can access all the content using the following link: [Mini Projects 2](https://drive.google.com/drive/folders/1h9heyDBVnVl2V1RcAeTKlEhhH_APDFTU?usp=drive_link).
 
-3. 🌳 Mini Project 3: **Decision Trees & Ensemble Learning** [cite: 3]
+3. 🌳 Mini Project 3: **Decision Trees & Ensemble Learning**
     * **Description:** This project explores the theoretical foundations and practical applications of Decision Trees and various Ensemble Learning techniques.
         * **🧠 Analytical Section:** This section covers the fundamental components of decision trees (nodes, branches, leaves), mathematical calculations of Entropy and Information Gain using the ID3 algorithm, analysis of Pre-pruning vs. Post-pruning techniques, and theoretical exploration of Ensemble methods including Bagging, Random Forest, Boosting (AdaBoost), and Stacking.
         * **💻 Practical Implementation:**
